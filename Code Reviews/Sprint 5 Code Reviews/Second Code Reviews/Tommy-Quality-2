@@ -1,0 +1,27 @@
+Author: Tommy Kasarcik
+Date: 4/23/2022
+Sprint: 4
+File Reviewed: Block.cs
+Author of Reviewed File: Various authors
+Time: 5 Min.
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Comments
+  -Conditional Complexity
+  -Large class
+  -Inconsistent names
+  -Data Class
+  -Indecent Exposure
+  -Refused Bequest
+  -Long Method
+  
+Comments:
+  There is no excessive use of literals.  There is no duplicated code.  Comments could be improved throughout.  There is a bit of conditional complexity.  
+  Specifically, in Update() there is a fairly long chain of if/else statements.  This class is not bigger than it needs to be.  Naming is consistent.  This
+  is not a data class.  There is no indecent exposure.  There is no refused bequest.  There are no overly long methods.  Overall, this code is of a pretty
+  high quality. 
+  
+Suggestion:
+  My only suggestion for this class is to simplify the Update method.  Right now, the logic seems a bit clunky.  It seems to me that it could be 
+  simplified a bit.  

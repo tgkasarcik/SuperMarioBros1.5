@@ -1,0 +1,14 @@
+﻿Author of Code Review: Catherine Quamme
+Date: 2/14/22
+Sprint #: 2
+.cs file reviewed: IEnemy
+Author of .cs: Eric
+Number minutes to write: 10 minutes
+
+
+Comments:
+* The “state and draw interface” comment I don’t think is necessary and adds confusion
+* Without commenting, the change direction method is a little unclear what it does
+* Fall method unclear, what is falling to the bottom? Of the screen, or to a predefined point?
+* GetPosition method comment I think over explains the method and makes the method less general than it could be
+* Overall good variable names, comments could be added for further clarity

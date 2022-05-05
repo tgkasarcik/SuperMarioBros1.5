@@ -1,0 +1,13 @@
+﻿Author of Code Review: Catherine Quamme
+Date: 3/6/22
+Sprint #: 3
+.cs file reviewed: CollisionHandler
+Author of .cs: Ben
+Number minutes to write: 5 minutes
+
+
+Comments:
+* The indentation is off when I am viewing it through my GitHub (some methods have code that is to the left of the method)
+* Would there be a way to have a data file with all the dictionary commands instead of having the code here?
+* I am not sure this class needs an interface.
+* For GetObjectType/GetCustomObjectType why is the variable object1 instead of just object? 1 to me implies there will be another one.

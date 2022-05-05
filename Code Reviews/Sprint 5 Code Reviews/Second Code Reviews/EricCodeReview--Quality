@@ -1,0 +1,11 @@
+Readability Code Review
+Date: 04/22/22
+Sprint: 5
+File Name: Mario
+File Author Name: Ruidong and Alek
+Time for Review: 5 min
+
+1. There is a little few comments in the class, but there are comments for specific functions, which is good.
+2. Functions won't be too long or too short
+3. Name of the Variable is easy to understand
+4. Overall, the code is really high readability

@@ -1,0 +1,28 @@
+Author: Tommy Kasarcik
+Date: 4/23/2022
+File Reviewed: AnimationEngine.cs
+Author of Reviewed File: Alek Srode
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Comments
+  -Conditional Complexity
+  -Large class
+  -Inconsistent names
+  -Data Class
+  -Indecent Exposure
+  -Refused Bequest
+  -Long Method
+  
+Comments:
+  Overall, the code in this class is pretty readible.  There is no excessive use of literals.  The only place they are used is with the GetSprite() method,
+  which requires string paramaters so this is not an issue.  There does not appear to be any duplicated code.  Comments could be improved considerably in
+  this class.  There are a lot of methods that have a giant line of statements to execute without a single comment explaining what is happening.  This code
+  would be much easier to maintain if comments were added more frequently throughout to explain what is happening and why.  There is quite a bit of conditional
+  complexity in this class.  Specifically, in the Update() method, there are up to 4 nested if statements in some spots.  This makes it quite hard to parse what
+  is supposed to be happening as an outside reader.  Perhaps this logic could be simplified or refactored into helper methods.  This class is fairly large but 
+  it has to perform some pretty complex behaviors, so that is not necessarily bad.  Naming is consistent throughout.  This is not a data class.  There is no 
+  indecent exposure.  There is no refused bequest.  Most of the methods in this class are pretty long.  Again, they all have complex behaviors, so this is not
+  bad in and of it self.  It is more of a problem in methods like GrabFlag() where there is a long line of statements without any comments or whitespace.  These
+  methods could be improved by adding some whitespace around statements that work together.  Overall, this class is pretty strong in terms of readibiliy, but could
+  be improved a bit.  

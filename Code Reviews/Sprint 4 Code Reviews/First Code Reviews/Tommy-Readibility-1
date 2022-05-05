@@ -1,0 +1,27 @@
+Author: Tommy Kasarcik
+Date: 3/28/2022
+Sprint: 3
+File Reviewed: HUD.cs
+Author of Reviewed File: Eric Chen
+Time: 10 min.
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Comments
+  -Conditional Complexity
+  -Large class
+  -Inconsistent names
+  -Data Class
+  -Indecent Exposure
+  -Refused Bequest
+  -Long Method
+  
+Comments:
+  Overall, the code in this class is pretty readible.  There is no execessive use of literals.  There is no duplicated code.  In the places where comments
+  are present, they are good, but some methods do not have comments at all.  I would suggest adding at least one high level comment that explains the behavior
+  of each method that is in this class.  There is no unnecessary conditional complexity.  This class is not larger than it needs to be.  All variables in this
+  class are named consistently.  It is a minor detail, but in C#, private variables should always start with a lower case character by convention.  In this 
+  class, however, all private variables start with an upper case character.  I suggest changing this to maintain a consistent style with the rest of the code
+  base.  This class is not a data class.  There is no indecent exposure in this class.  There is no refuesed bequest in this class, as it does not implement
+  an interface.  There are no unnecessarily long methods in this class.  Overall, the code in this class is highly readible, and can be made even more readible
+  with a few slight modifications.  Good work!

@@ -1,0 +1,13 @@
+Quality Code Review
+Date: 04/22/22
+Sprint: 5
+File Name: Shell
+File Author Name: Eric and Ben
+Time for Review: 6 min
+----- Comments As Follows -----
+- The constructor requires quite a few parameters, the spritefactory parameter being one that is unneeded as the spritefactory is an instance class
+- Could maybe use some comments specifying what some of the variables are used for, such as faceRight
+- Some comments regarding the contents of the methods could be useful as well as they will help make the file nicer to read/skim through
+- Functions are reasonable length
+- No one function has an unreasonable number of parameters
+- Comments on some parameters, like "isUp", could be useful as the name is very vague

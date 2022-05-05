@@ -1,0 +1,12 @@
+Author of Code Review: Catherine Quamme
+Date: 4/23/22
+Sprint #: 5
+.cs file reviewed: AnimationEngine
+Author of .cs: Alek/Tommy
+Number minutes to write: 5
+
+Comments:
+* GrabFlag could use some comments, it's a lot of code with no explanation.
+* MarioLeftLevel is not called, can this be deleted?
+* Update could definitely use some comments.
+* Overall looks good, just there's large swatches of code with no comments.

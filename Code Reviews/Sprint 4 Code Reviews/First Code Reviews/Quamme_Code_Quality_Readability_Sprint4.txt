@@ -1,0 +1,12 @@
+Author of Code Review: Catherine Quamme
+Date: 3/28/22
+Sprint #: 4
+.cs file reviewed: CollisionHandler
+Author of .cs: Ben
+Number minutes to write: 5
+
+
+Comments:
+* Indentation (at least in GitHub) is off, makes it difficult to read because like at line 73, the loop is indented behind the method it is in
+* Do we need the CollisionObject/Rectangle classes? I guess I am just not sure what the purpose of them is, not saying it's wrong just a little confused on their purpose
+* Should CollisionHandler even need to implement an interface? 

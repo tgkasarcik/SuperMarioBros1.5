@@ -1,0 +1,29 @@
+*** This is a redo of the first code review to replace it. This will be done on our code for things after we've finalized a majority of it for Sprint 2 ***
+
+Readability Code Review
+Date: 02/19/22
+Sprint: 2
+File Name: Block
+File Author Name: Ben Borszcz
+Time for Review: 5 min
+----- Comments As Follows -----
+- The enum BlockType helps for both readability and code function to reduce the possibility of bugs.
+- The constructor for Block is rather long. Might there be a way to reduce its length?
+- In GetHitBox function, has Sprite.Texture.Bounds which has two dots to it. Verging on the side of going too deep and may affect readability.
+- Overall, all functions make sense, are short and concise, and make sense. Having comments on some things may help provide clarity though.
+
+
+
+Quality Code Review
+Date: 02/19/22
+Sprint: 2
+File Name: FireMario
+File Author Name: Alekzander Srode
+Time for Review: 5 min
+----- Comments As Follows -----
+- Comments provide good ideas about what the code is for/doing.
+- Has magic numbers in its constructor and ThrowFireBall function which can cause confusion when looking back later. Make constants for them.
+- The functions are short and have reasonable parameters.
+- MOVEMOD is unused in this class. Where is it used? Why is it set and stored here?
+- PickupPower may want to use a enum rather than string as a parameter as it will help with not having bugs in the code.
+- gameTime.TotalGameTime.TotalSeconds is called twice here. Can be shortened a well as number of times called by updating a varaible that will store its value that can be referenced later when needed.

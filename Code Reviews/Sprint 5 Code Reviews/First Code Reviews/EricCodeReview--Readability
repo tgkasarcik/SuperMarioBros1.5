@@ -1,0 +1,11 @@
+Quality Code Review
+Date: 04/21/22
+Sprint: 5
+File Name: CollisionHandler
+File Author Name: Ben
+Time for Review: 8 min
+
+1. Space for each line still doesn't match up which looks werid
+2. Really Long class, it will be better to make it more simple, because there is many similar call
+3. Maybe using Switch case instead of if-else will looks better
+4. Have more comment will looks better

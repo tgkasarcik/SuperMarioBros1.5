@@ -1,0 +1,27 @@
+Author: Tommy Kasarcik
+Date: 2/28/2022
+File Reviewed: Shell.cs
+Author of Reviewed File: Eric Chen
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Comments
+  -Conditional Complexity
+  -Large class
+  -Inconsistent names
+  -Data Class
+  -Indecent Exposure
+  -Refused Bequest
+  -Long Method
+  
+Comments:
+  Overall, the quality of the code in this file is pretty solid.  There is no excesssive use of literals.  There does not appear to be any duplicated code.  Comments
+  are not present for this file.  Adding comments where necessary always increases code quality.  There is no execssive conditional complexity in this class.  This is 
+  not a large class.  The naming scheme used here appears to be consistent throughout.  This is not a data class.  This class only has the absolutely necessary parts of
+  it public; this helps to increase code quality.  This class fully implements all interfaces.  There are no overly long methods in this class.  Overall, the code quality
+  of this class is quite high
+  
+Suggestion:
+  One suggestion I have is to make the constructor more simple.  The long list of parameters is unnecessary, in my opinion, since most times that a shell object is created, 
+  the paramaters that would passed to it are going to be the same.  I think it would be a more cohesive and less coupled design of the constructor only took a location and a
+  SpriteFactory for its paramaters instead of the long list that it does now.  

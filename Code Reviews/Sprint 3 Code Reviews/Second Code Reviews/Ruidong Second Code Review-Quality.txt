@@ -1,0 +1,24 @@
+Ruidong Code Review-Quality
+
+Date: 03/06/22
+
+Sprint: 3
+
+File Name: Shell
+
+File Author Name: Eric
+
+Time for Review: 10 min
+
+Code smell focused on:
+Comments
+Duplicated Code
+Large class
+Long Method
+
+Comments:
+- the class entirely implements the written interfaces.
+- The ISimpleMovementType interface could be implemented by I gameObject in later Sprint.
+- Comments are written well to provide the information of each method
+- The quality of the code within the file is good, the class is not large.
+- No duplicated code in the file, and there is not  long method.

@@ -1,0 +1,11 @@
+Quality Code Review
+Date: 03/06/22
+Sprint: 3
+File Name: Collision Detector
+File Author Name: Cat
+Time for Review: 7 min
+
+1. Commend are written well to provide the information of method
+2. There are not too short or too long method
+3. Although the parameter in constructor looks long, it is fine.
+4. Overall the method have high quality and solid method.

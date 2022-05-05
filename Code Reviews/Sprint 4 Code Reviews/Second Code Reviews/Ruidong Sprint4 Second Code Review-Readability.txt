@@ -1,0 +1,19 @@
+Ruidong Sprint4 Second Code Review-Readability
+
+Date: 04/08/22
+
+Sprint: 4
+
+File Name: AnimationEngine
+
+File Author Name: Alek
+
+Time for Review: 10 min
+
+
+Comments:
+- Understandable AnimationEngine class name for updating location and interactions of Animation.
+- The parameters are not too long for most functions, these method names are well named.
+- we could have som parameters in function update to make it clear and simple, it is a little big.
+- The AnimationEngine class is completed well, further implementation will focus on more Animation implementations related to Mario interaction.
+- There are no replicate code.

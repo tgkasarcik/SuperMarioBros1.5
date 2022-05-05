@@ -1,0 +1,14 @@
+Author: Eric Chen
+Date: 2/18/2022
+Sprint: 2
+File Reviewed: Shell.cs
+Author of File Reviewed: Ben Borszcz
+Time for review: 10 minutes
+
+Comments:
+1. It needs to implement the IUpdateable interface
+2. Having a Update method to update the states and sprites is necessary
+3. Then it should update the sprite in different corresponding method. (eg. Update MoveShell sprite in Move method).
+4. It also need to call Move() method in Update() method. If not it won't move automatically. In the future sprint, it should also call the
+different methods for corresponding situation
+5. Overall, It still needed to implement more.

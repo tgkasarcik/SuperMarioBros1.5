@@ -1,0 +1,12 @@
+Quality Code Review
+Date: 04/22/22
+Sprint: 5
+File Name: AnimationEngine 
+File Author Name: Alek
+Time for Review: 10 min
+
+1. There are a lot of comment for the variable and methods which help to understand
+2. There are not long parameter in the function
+3. Some functions are long but still reasonable and no function is short
+4. Class are large but reasonable, And no repeated code and repeated function
+5. Overall, the quality of the code is awesome.

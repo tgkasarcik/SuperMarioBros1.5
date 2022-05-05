@@ -1,0 +1,21 @@
+Author: Ben Borszcz
+Date: 4/22/2022
+Sprint: 5
+File Reviewed: CameraManager.cs
+Author of File Reviewed: Tommy
+
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Long Method
+  -Dead Code
+  -Inconsistent names
+Comments:
+  -Good Code
+  -Lots of descriptive comments
+  
+Change Test:
+  Q. If the game allowed for multiplayer would this work
+  A. I would think yes since there is an option to hold multiple cameras
+
+Time Taken: 10m

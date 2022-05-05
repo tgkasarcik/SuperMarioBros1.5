@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<palette>
+
+	<sprite>
+		<name>UpPipe</name>
+		<texture>pipeSheet</texture>
+		<x>32</x>
+		<y>0</y>
+		<width>32</width>
+		<height>32</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>0.1</depth>
+	</sprite>
+
+	<sprite>
+		<name>UpPipeBase</name>
+		<texture>pipeSheet</texture>
+		<x>32</x>
+		<y>32</y>
+		<width>32</width>
+		<height>32</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>0.1</depth>
+	</sprite>
+
+	<sprite>
+		<name>LeftPipe</name>
+		<texture>pipeSheet</texture>
+		<x>0</x>
+		<y>0</y>
+		<width>32</width>
+		<height>32</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>0.1</depth>
+	</sprite>
+
+	<sprite>
+		<name>RightPipe</name>
+		<texture>pipeSheet</texture>
+		<x>0</x>
+		<y>0</y>
+		<width>32</width>
+		<height>32</height>
+		<frames>1</frames>
+		<effect>FlipHorizontally</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>0.1</depth>
+	</sprite>
+
+	<sprite>
+		<name>CornerLeftPipe</name>
+		<texture>pipeSheet</texture>
+		<x>2</x>
+		<y>32</y>
+		<width>30</width>
+		<height>32</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>0.1</depth>
+	</sprite>
+
+	<sprite>
+		<name>CornerRightPipe</name>
+		<texture>pipeSheet</texture>
+		<x>2</x>
+		<y>32</y>
+		<width>30</width>
+		<height>32</height>
+		<frames>1</frames>
+		<effect>FlipHorizontally</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>0.1</depth>
+	</sprite>
+
+</palette>

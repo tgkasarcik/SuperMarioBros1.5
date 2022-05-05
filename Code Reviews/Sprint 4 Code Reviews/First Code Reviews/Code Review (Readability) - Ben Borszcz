@@ -1,0 +1,16 @@
+Author: Ben Borszcz
+Date: 3/28/2022
+Sprint: 4
+File Reviewed: Fireball.cs
+Author of File Reviewed: Tommy
+
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Long Method
+  -Dead Code
+  -Inconsistent names
+Comments:
+  Overall the code is well named and decently readable, would need more comments if a person outside this project were to understand it fully and easiily.
+  
+Time Taken: 5m

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<spritesheets>
+	
+	<!--blocks-->
+	
+	<spritesheet>
+		<name>brickSheet</name>
+		<path>BrickSpriteSheet</path>
+	</spritesheet>
+	<spritesheet>
+		<name>uBlockSheet</name>
+		<path>UBlockSpriteSheet</path>
+	</spritesheet>
+	<spritesheet>
+		<name>qBlockSheet</name>
+		<path>QuestionBlockSpriteSheet</path>
+	</spritesheet>
+	<spritesheet>
+		<name>qBlockSheetGrey</name>
+		<path>QuestionBlockSpriteSheetGrey</path>
+	</spritesheet>
+	<spritesheet>
+		<name>flagSheet</name>
+		<path>FlagTextures</path>
+	</spritesheet>
+	<spritesheet>
+		<name>flagPennant</name>
+		<path>flagPennantSpriteSheet</path>
+	</spritesheet>
+	<spritesheet>
+		<name>pipeSheet</name>
+		<path>PipeSpriteSheet</path>
+	</spritesheet>
+	<spritesheet>
+		<name>pipeSheetGrey</name>
+		<path>PipeSpriteSheetGrey</path>
+	</spritesheet>
+	<spritesheet>
+		<name>minecraft</name>
+		<path>MinecraftTextureAtlas2</path>
+	</spritesheet>
+
+<!--characters-->
+
+	<spritesheet>
+		<name>shortEnemySheet</name>
+		<path>ShortEnemySpriteSheet</path>
+	</spritesheet>
+	<spritesheet>
+		<name>tallEnemySheet</name>
+		<path>TallEnemySpriteSheet1</path>
+	</spritesheet>
+	<spritesheet>
+		<name>smallMarioSheet</name>
+		<path>SmallMarioSpriteSheet</path>
+	</spritesheet>
+	<spritesheet>
+		<name>bigMarioSheet</name>
+		<path>BigMarioSpriteSheet</path>
+	</spritesheet>
+	<spritesheet>
+		<name>footballMario</name>
+		<path>FootballMarioSpriteSheet</path>
+	</spritesheet>
+	<spritesheet>
+		<name>xichigan</name>
+		<path>XichiganEnemies</path>
+	</spritesheet>
+
+<!--items-->
+
+	<spritesheet>
+		<name>itemSheet</name>
+		<path>ItemSpriteSheet</path>
+	</spritesheet>
+	<spritesheet>
+		<name>itemSheetGrey</name>
+		<path>ItemSpriteSheetGrey</path>
+	</spritesheet>
+	<spritesheet>
+		<name>fireballSheet</name>
+		<path>FireBallSpriteSheet</path>
+	</spritesheet>
+
+<!--backgrounds-->
+
+	<spritesheet>
+		<name>backgroundSheet</name>
+		<path>BackgroundScenery</path>
+	</spritesheet>
+	<spritesheet>
+		<name>backgroundWinter</name>
+		<path>BackgroundWinter</path>
+	</spritesheet>
+	<spritesheet>
+		<name>castleSheet</name>
+		<path>CastleTextures</path>
+	</spritesheet>
+	<spritesheet>
+		<name>palmTreeSheet</name>
+		<path>CustomPalmTreesTest</path>
+	</spritesheet>
+	<spritesheet>
+		<name>winterTrees</name>
+		<path>WinterTrees</path>
+	</spritesheet>
+	<spritesheet>
+		<name>OSULogo</name>
+		<path>OSULogo</path>
+	</spritesheet>
+
+<!--missing texture-->
+	
+	<spritesheet>
+		<name>missingTexture</name>
+		<path>MissingTexture</path>
+	</spritesheet>
+
+</spritesheets>

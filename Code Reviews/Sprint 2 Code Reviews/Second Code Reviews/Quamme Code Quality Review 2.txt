@@ -1,0 +1,14 @@
+﻿Author of Code Review: Catherine Quamme
+Date: 2/18/22
+Sprint #: 2
+.cs file reviewed: Block
+Author of .cs: Ben
+Number minutes to write: 15
+
+
+Comments:
+* The block constructor takes a lot of parameters, I’m not sure if there’s anything we can do to shorten it
+* I think the if/else branch in the constructor could be its own private method in the class so that there is less logic in the constructor itself
+* Similarly the logic in reset could maybe be its own method that gets called in Reset, something like “GetNewUState”, I think this one is less critical than the constructor though
+* I think the field names should be camelcase and not capitalized, to me it reads as confusing and like they are method names and not variables
+* If a new block type got added we would have to make a lot of changes all over this class rather than just in one place

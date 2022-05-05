@@ -1,0 +1,11 @@
+Readability Code Review
+Date: 03/28/22
+Sprint: 4
+File Name: Mario
+File Author Name: Ruidong Zhang
+Time for Review: 10 min
+----- Comments As Follows -----
+- Class is very long, makes for reading the whole class tedious and finding the exact function you want becomes more difficult, problem could be solved using an abstract class that could possibly remove a lot of the one-liner functions that a lot of other objects of similar types might implement
+- Relatively good comments sprinkled throughout to specify what things are used for or what they're doing/representing, could use some more comments on things here and there
+- Fireball function has a nasty looking call with 3 "."s, is there a way to reduce this by having a parameter for the function that holds the exact or closer to exact reference of the list the function is wanting?
+- The constructor is the only function that has relatively a lot of parameters, is there a way we can reduce this? Are there any variables the constructor wants that Mario actually already knows upon first creation? Like faceRight, moving, jump, floored?

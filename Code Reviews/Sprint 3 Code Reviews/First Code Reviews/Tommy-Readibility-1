@@ -1,0 +1,26 @@
+
+Author: Tommy Kasarcik
+Date: 2/28/2022
+Sprint: 3
+File Reviewed: Physics.cs
+Author of Reviewed File: Alek Srode
+Time: 10 min
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Comments
+  -Conditional Complexity
+  -Large class
+  -Inconsistent names
+  -Data Class
+  -Indecent Exposure
+  -Refused Bequest
+  -Long Method
+  
+  Comments: 
+    Overall, this file is pretty solid in terms of readibility.  There is no excessive use of literals.  There doesn't appear to be any duplicated code in the current state, 
+    which may just be because it is not fully finished yet.  Comments are one way this file could be improved in terms of readibility.  Right now, I don't see any comments; 
+    adding some breif comments would be beneficial to readibility.  This class does not have any conditional complexity currently.  This class is not a large class.  This 
+    class dos not have inconsistent names, which is helpful for readibility.  This class is not a data class.  There are no public members in this class, so there is no 
+    indecent exposure to external classes.  Currently, both methods of the IPhysics interface are not implemented, which I am assuming is just becuase the class is not finished.
+    There are no long methods in this class.  Overall this file is very readible.  

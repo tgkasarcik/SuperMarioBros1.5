@@ -1,0 +1,13 @@
+Author of Code Review: Catherine Quamme
+Date: 3/28/22
+Sprint #: 4
+.cs file reviewed: HUD
+Author of .cs: Eric
+Number minutes to write: 5
+
+
+Comments:
+* Repeated code in Reset, same as in constructor. Is there a way to only write all this once?
+* I am confused by what the clear method is doing (also should clear be capitalized?)
+* Live should maybe be Lives
+* 120 in AddFloor seems like a magic number

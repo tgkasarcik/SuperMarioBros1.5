@@ -1,0 +1,11 @@
+Author of Code Review: Catherine Quamme
+Date: 4/20/22
+Sprint #: 5
+.cs file reviewed: Mario
+Author of .cs: Ruidong/Alek
+Number minutes to write: 5
+
+Comments:
+* PlaceBlock could use some comments, it's unclear why they are being divided by 16 for example, and the +1 and -2 are confusing
+* Collide X and Y's if conditions are slightly confusing, what is being checked for?
+* Overall quite readable, just a few more comments needed

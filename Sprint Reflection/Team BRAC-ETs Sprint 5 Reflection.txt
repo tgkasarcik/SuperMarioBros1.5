@@ -1,0 +1,28 @@
+Team BRAC-ETs Sprint 5 Reflection
+
+
+Overall Performance
+* Everyone seemed to have fun and enjoyed this Sprint
+* Each person helped commit to the extra ideas in some way
+
+
+Constructive Changes
+* Work seemed well divided and people fine with what they were assigned/doing
+* In-person meetings were still really good for us to finalize ideas and plans for the rest of the sprint
+* Got working code much earlier in the sprint
+* Much more stable/working code earlier on
+* No huge bugs left until late in the sprint only minor small stuff
+
+
+Detrimental Changes
+* There may be more bugs with changes of Sprint5.
+* Still a little too much left to the end
+* Could merge more often
+* ZenHub not used as often as would probably be best
+
+
+Future Plans for (if there was more) Sprints
+* Use ZenHub more often, or find something else that might work better for us as we didn't seem to care much for using ZenHub, Discord was our main way of tracking work and what people were doing
+* Add more interesting elements to different levels, we can add a special winning state for the osu level.
+* Run code metrics more often
+* Maybe one or two more in-person meetings (I know it was not possible for this sprint)

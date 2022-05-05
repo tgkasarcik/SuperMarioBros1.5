@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<palette>
+
+	<!--Missing Texture-->
+	
+	<sprite>
+		<name>MissingTexture</name>
+		<texture>missingTexture</texture>
+		<x>0</x>
+		<y>0</y>
+		<width>16</width>
+		<height>16</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>0.5</depth>
+	</sprite>
+	
+	<!--Bushes-->
+
+	<sprite>
+		<name>Bush1</name>
+		<texture>backgroundSheet</texture>
+		<x>5</x>
+		<y>93</y>
+		<width>32</width>
+		<height>16</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+	<sprite>
+		<name>Bush2</name>
+		<texture>backgroundSheet</texture>
+		<x>105</x>
+		<y>93</y>
+		<width>48</width>
+		<height>16</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+	<sprite>
+		<name>Bush3</name>
+		<texture>backgroundSheet</texture>
+		<x>39</x>
+		<y>93</y>
+		<width>64</width>
+		<height>16</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+	
+	<!--Hills-->
+	
+	<sprite>
+		<name>Hill1</name>
+		<texture>backgroundSheet</texture>
+		<x>2</x>
+		<y>16</y>
+		<width>48</width>
+		<height>19</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+	<sprite>
+		<name>Hill2</name>
+		<texture>backgroundSheet</texture>
+		<x>53</x>
+		<y>0</y>
+		<width>80</width>
+		<height>35</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+	
+	<!--Palm Trees-->
+
+	<sprite>
+		<name>PalmTree1</name>
+		<texture>palmTreeSheet</texture>
+		<x>23</x>
+		<y>237</y>
+		<width>38</width>
+		<height>43</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+	<sprite>
+		<name>PalmTree2</name>
+		<texture>palmTreeSheet</texture>
+		<x>84</x>
+		<y>226</y>
+		<width>37</width>
+		<height>54</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+	<sprite>
+		<name>PalmTree3</name>
+		<texture>palmTreeSheet</texture>
+		<x>122</x>
+		<y>203</y>
+		<width>43</width>
+		<height>77</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+	<sprite>
+		<name>PalmTree4</name>
+		<texture>palmTreeSheet</texture>
+		<x>173</x>
+		<y>207</y>
+		<width>53</width>
+		<height>73</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+	
+	<!--Pine Trees-->
+
+	<sprite>
+		<name>PineTree1</name>
+		<texture>winterTrees</texture>
+		<x>15</x>
+		<y>247</y>
+		<width>27</width>
+		<height>53</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+	<sprite>
+		<name>PineTree2</name>
+		<texture>winterTrees</texture>
+		<x>52</x>
+		<y>263</y>
+		<width>25</width>
+		<height>37</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+	<sprite>
+		<name>PineTree3</name>
+		<texture>winterTrees</texture>
+		<x>93</x>
+		<y>234</y>
+		<width>18</width>
+		<height>66</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+	
+	<!--Winter Trees-->
+
+	<sprite>
+		<name>WinterTree1</name>
+		<texture>winterTrees</texture>
+		<x>137</x>
+		<y>238</y>
+		<width>49</width>
+		<height>62</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+	<sprite>
+		<name>WinterTree2</name>
+		<texture>winterTrees</texture>
+		<x>214</x>
+		<y>237</y>
+		<width>42</width>
+		<height>63</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+	
+	<!--Liquids-->
+
+	<sprite>
+		<name>Water</name>
+		<texture>minecraft</texture>
+		<x>128</x>
+		<y>64</y>
+		<width>16</width>
+		<height>16</height>
+		<frames>2</frames>
+		<effect>None</effect>
+		<color>
+			<r>0</r>
+			<g>255</g>
+			<b>234</b>
+			<a>255</a>
+		</color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+	<sprite>
+		<name>Lava</name>
+		<texture>minecraft</texture>
+		<x>96</x>
+		<y>48</y>
+		<width>16</width>
+		<height>16</height>
+		<frames>4</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+	
+	<!--Misc-->
+
+	<sprite>
+		<name>Fire</name>
+		<texture>minecraft</texture>
+		<x>64</x>
+		<y>64</y>
+		<width>16</width>
+		<height>16</height>
+		<frames>2</frames>
+		<msPerFrame>125</msPerFrame>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+	<sprite>
+		<name>OSULogo</name>
+		<texture>OSULogo</texture>
+		<x>0</x>
+		<y>0</y>
+		<width>32</width>
+		<height>48</height>
+		<frames>1</frames>
+		<effect>None</effect>
+		<color></color>
+		<overlay>None</overlay>
+		<depth>1.0</depth>
+	</sprite>
+
+</palette>

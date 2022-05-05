@@ -1,0 +1,12 @@
+Author: Eric Chen
+Date: 2/18/2022
+Sprint: 2
+File Reviewed: Shell.cs
+Author of File Reviewed: Ben Borszcz
+Time for review: 10 minutes
+
+Comments:
+1. the method is really short and clear.
+2. the naming of the method and variable is clear enought that user can know what it is.
+3. For the parameters in constructor of three states, the bool variable should have a variable name to let user know what it is
+4. Overall, it is pretty clear method, but it need more detail more parameters in the constructor of states

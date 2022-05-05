@@ -1,0 +1,33 @@
+Team BRAC-ETs Sprint 4 Reflection
+
+
+Overall Performance
+* Got base functionality of Sprint done
+* Pushed some minor details, such as [...]
+* Solid work from everyone in getting this Sprint done!
+
+
+Constructive Changes
+* In-Person meetings still worked really well for us, good to keep that up for this upcoming last sprint
+* Communication has been better recently, especially during this last Sprint
+* Got working code much earlier in the sprint
+* Testing plan
+* Much more stable/working code earlier on
+
+
+Detrimental Changes
+* Zenhub has basically become obsoltete for us, we've been tracking To-Dos more so through just taking note of things needed to do. And while it's been working, it isn't the prettiest or best thing when it comes to communicating with the whole team and keeping things up to date.
+* Team planning/leadership was pretty disorganized for this past sprint.
+* Still leaving bug fixes until too late in the Sprint
+* For some reason, people decided to start editing other people's classes without talking to them first during this sprint, which can be quite frustrating.  You may
+break something you don't fully understand.  Just ask first.
+
+
+Future Plans for Sprints
+* Keep working at it and finish through this last upcoming sprint
+* Run more playthrough tests to find bugs.
+* Plan to fix all big bugs a few days before sprint so less time is spent at very end putting out fires
+* Run code metrics more often
+* Maybe one or two more in-person meetings
+* Once you are done with your debug lines in your code, please delete them before being pushed to main branch
+* Don't touch someone else's class without talking to them first.

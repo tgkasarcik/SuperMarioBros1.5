@@ -1,0 +1,11 @@
+Author of Code Review: Catherine Quamme
+Date: 4/23/22
+Sprint #: 5
+.cs file reviewed: MoveLeft
+Author of .cs: Alek
+Number minutes to write: 5
+
+Comments:
+* Some duplicated code, could be refactored to have less duplicated code.
+* Edge Detection should ideally be it's own method, though I know this was a last minute thing.
+* Overall, good code. Could use some comments.

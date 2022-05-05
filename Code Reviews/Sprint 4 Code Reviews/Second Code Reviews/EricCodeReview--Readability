@@ -1,0 +1,12 @@
+Readability Code Review
+Date: 04/08/22
+Sprint: 4
+File Name: ScreenManager
+File Author Name: Tommy 
+Time for Review: 8 min
+
+1. Every method has comment which help to understand
+2. The names of methods are straighforward. It is easy to know what the function do by reading the name
+3. Functions don't have long parameter
+4. No too long or too short method.
+5. Overall, it is high readability code

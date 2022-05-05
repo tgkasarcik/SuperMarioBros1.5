@@ -1,0 +1,21 @@
+Author: Ben Borszcz
+Date: 3/11/2022
+Sprint: 3
+File Reviewed: Camera.cs
+Author of File Reviewed: Tommy
+
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Long Method
+  -Dead Code
+  -Inconsistent names
+Comments:
+  -Very well written
+  -Good comments throughout but maybe too many mid function
+  
+Change Test:
+  Q. If the game allowed for multiplayer how would the camera work
+  A. Maybe take two IGameObjects params and split the difference.
+
+Time Taken: 10m

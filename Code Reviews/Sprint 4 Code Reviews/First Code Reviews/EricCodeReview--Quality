@@ -1,0 +1,11 @@
+Quality Code Review
+Date: 04/3/22
+Sprint: 4
+File Name: ScreenManager
+File Author Name: Tommy
+Time for Review: 12 min
+
+1. Every method have the comment to illustrate what the method does, which is helpful
+2. There are not long class or too short class.
+3. It have enum ScreenType, which help to find corresponding code for any part. It is helpful to dubug
+4. Overall it is a high quality code, 

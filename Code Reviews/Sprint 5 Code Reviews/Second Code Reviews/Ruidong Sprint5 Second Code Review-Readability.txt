@@ -1,0 +1,18 @@
+Ruidong Sprint5 Second Code Review-Readability
+
+Date: 04/22/22
+
+Sprint: 5
+
+File Name: SoundFactory
+
+File Author Name: Catherine Quamme
+
+Time for Review: 10 min
+
+Comments:
+- Understandable SoundFactory functions for Sound and SoundEffect.
+- The parameters are not long for most functions, these methods names are well named.
+- The SoundFactory class is clear and readable.
+- There are no replicate code.
+- There will have various way to call sounds in further updates.

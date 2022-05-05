@@ -1,0 +1,13 @@
+Author of Code Review: Catherine Quamme
+Date: 4/20/22
+Sprint #: 5
+.cs file reviewed: HUD
+Author of .cs: Eric/Ruidong
+Number minutes to write: 5
+
+
+Comments:
+* The name GetCoin does not seem indiciative of incrementing a coin, I think the name could be more clear
+* Is AddFloor ever called?
+* Overall set up well, seems straight forward and not overly complex. Easy to read through for the most part.
+* Some duplicated code in DeathReset and GameOverReset and Constructor, could the duplicated parts be combined?

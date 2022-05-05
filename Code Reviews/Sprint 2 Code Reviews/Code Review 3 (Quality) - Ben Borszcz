@@ -1,0 +1,21 @@
+Author: Ben Borszcz
+Date: 2/28/2022
+Sprint: 3
+File Reviewed: Background.cs
+Author of File Reviewed: Eric
+
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Long Method
+  -Dead Code
+  -Inconsistent names
+Comments:
+  -Looks good but is just formatted for now.
+  -Will it need a sprite?
+  
+Change Test:
+  Q. If the game allowed for the background to change during a level would it be controlled from this class
+  A. I would think yes. But I dont know.
+
+Time Taken: 5m

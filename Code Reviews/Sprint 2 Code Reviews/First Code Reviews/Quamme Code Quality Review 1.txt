@@ -1,0 +1,17 @@
+﻿Author of Code Review: Catherine Quamme
+Date: 2/14/22
+Sprint #: 2
+.cs file reviewed: BackgroundObject
+Author of .cs: Ruidong
+Number minutes to write: 15
+
+
+Comments:
+* Background sprite comment at line 7 seems unnecessary.
+* I don’t think it needs to implement IItem.
+* If the object gets an ISprite object, then it shouldn’t need Columns, Rows, SourceRectangle, or Texture variables
+* I don’t think this needs Mario’s position.
+* What is graphics variable used for? It is never used.
+* Right now the Draw method is commented out and the 2 other methods don’t do anything, so I’m not sure what this class is for.
+* If implementing draw method, should implement IDrawable.
+* Constructor takes too many parameters, this could make it difficult to test and call and makes it more likely to create bugs

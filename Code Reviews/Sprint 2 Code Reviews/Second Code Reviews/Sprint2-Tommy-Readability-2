@@ -1,0 +1,27 @@
+Author: Tommy Kasarcik
+Date: 2/19/2022
+Sprint: 2
+File Reviewed: Fireball.cs
+Author of Reviewed File: Alek Srode
+Time: 13 min.
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Comments
+  -Conditional Complexity
+  -Large class
+  -Inconsistent names
+  -Data Class
+  -Indecent Exposure
+  -Refused Bequest
+  -Long Method
+  
+Comments:
+  Overall, this file is pretty readable.  I don't notice any massive errors at first glance from this file.  Looking at code smells, this file is also pretty good.
+  Firstly, there are no unnecessary literals in this file.  There also doesn't appear to be any duplicated code in this file.  Comments are one way this file could be
+  improved, however.  Specifiically, I'd like to see some comments in the Update() method, because the code here is pretty complex and it's not necessarily obvious what
+  it does at first glance.  On a related note, this method also has two nested if statments, which can cause conditional complexity.  Two nested ifs are not too bad, but
+  could potentially be simplified.  This class does not appear to be longer than it needs to be.  The naming scheme here appears to be consistent.  This class is not a data
+  class.  This class only has two public members, which is good.  My only suggestion would be to make the ISprite private, but I realize this may be declared on the
+  ICollideable interface as of right now.  This class fully implements all of its inherited interfaces.  There are no methods in this class that are unnecessarily long.
+  Overall, this class is quite readable and does not have too many glaring errors.  

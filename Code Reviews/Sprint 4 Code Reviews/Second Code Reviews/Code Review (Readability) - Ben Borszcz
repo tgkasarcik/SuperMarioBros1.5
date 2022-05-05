@@ -1,0 +1,16 @@
+Author: Ben Borszcz
+Date: 4/7/2022
+Sprint: 4
+File Reviewed: AnimationEngine.cs
+Author of File Reviewed: Alek
+
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Long Method
+  -Dead Code
+  -Inconsistent names
+Comments:
+  Really good commenting, it is very easy to understand. There are no overly long methods which is good as well.
+  
+Time Taken: 5m

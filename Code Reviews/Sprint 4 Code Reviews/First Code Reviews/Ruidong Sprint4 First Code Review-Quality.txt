@@ -1,0 +1,24 @@
+Ruidong Sprint4 First Code Review-Quality
+
+Date: 03/28/22
+
+Sprint: 4
+
+File Name: CollisionHandler
+
+File Author Name: Ben Borszcz
+
+Time for Review: 10 min
+
+Code smell focused on:
+Comments
+Duplicated Code
+Large class
+Long Method
+Testability
+
+Comments:
+- the CollisionHandler class entirely implements the written interfaces.
+- Comments are written well to provide the information of each method.
+- No duplicated code in the file, and there is not a long method.
+- The quality of the code is not testable well until the first code review. 

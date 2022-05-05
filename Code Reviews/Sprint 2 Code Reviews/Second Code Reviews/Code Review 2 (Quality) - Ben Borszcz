@@ -1,0 +1,33 @@
+Author: Ben Borszcz
+Date: 2/18/2022
+Sprint: 2
+File Reviewed: Koopa.cs
+Author of File Reviewed: Eric
+
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Long Method
+  -Dead Code
+  -Inconsistent names
+Comments:
+  -"private bool isDrawn"
+    -I believe this should be stored by the sprite
+  -"XMoveState.Movement(FaceLeft)" 
+    -should negate "FaceLeft"
+    -"FaceLeft" should be in camel casing
+  -Needs to implement "IGameObject"
+  -"SpriteFactory" shoule be in camel casing
+  -Using location and position is inconsistent naming conventions
+  -Potentially too many parameters
+    -Is there no base case for a Koopa?
+  -Contructor parameter SpriteFactory sprite is inconsistent naming
+    -SpriteFactory is not a sprite and could cause confusion with the Sprite property
+    -Change to spriteFactory?
+  -Needs to implement ICollideable
+  
+Change Test:
+  Q. If the game allowed for Koopas to Jump would the class be able to support it
+  A. I would think yes. A method would need to be added to tell the IYMove state that the koopa has jumped.
+
+Time Taken: 20m

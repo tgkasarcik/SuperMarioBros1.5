@@ -1,0 +1,22 @@
+Author: Ben Borszcz
+Date: 4/7/2022
+Sprint: 4
+File Reviewed: StructureUseability.cs
+Author of File Reviewed: Alek
+
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Long Method
+  -Dead Code
+  -Inconsistent names
+Comments:
+  -Very well written
+  -Good comments throughout
+  -Short and simple
+  
+Change Test:
+  Q. If game needed constantly animated blocks would this work.
+  A. I think it would as long as the type itself had that functionality.
+
+Time Taken: 10m

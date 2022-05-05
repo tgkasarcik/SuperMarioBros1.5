@@ -1,0 +1,17 @@
+Ruidong Sprint4 first Code Review-Readability
+
+Date: 03/28/22
+
+Sprint: 4
+
+File Name: ScreenManager
+
+File Author Name: Tommy Kasarcik
+
+Time for Review: 10 min
+
+Comments:
+- Understandable enum type for screen type to distinguish different game states.
+- The parameters are not too long, they are well named like method names.
+- The ScreenManager class is completed well, further implementation will focus on draw implementations.
+- There are no replicate code.

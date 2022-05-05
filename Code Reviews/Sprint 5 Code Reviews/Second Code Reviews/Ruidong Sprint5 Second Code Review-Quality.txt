@@ -1,0 +1,25 @@
+Ruidong Sprint5 Second Code Review-Quality
+
+Date: 04/22/22
+
+Sprint: 5
+
+File Name: AnimationEngine
+
+File Author Name: Alek
+
+Time for Review: 10 min
+
+Code smell focused on:
+Comments
+Duplicated Code
+Large class
+Long Method
+
+Comments:
+- the AnimationEngine class entirely implements the written interfaces.
+- No duplicated code in the file.
+- Comments are written well to provide the needed information for every function and variable.
+- The quality of the code is testable well, clear, and efficient to implement animations of the game.
+- In further updates, it could focus on code simplify on different functions.
+ 

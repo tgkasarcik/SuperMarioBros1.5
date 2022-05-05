@@ -1,0 +1,18 @@
+Author: Ben Borszcz
+Date: 2/28/2022
+Sprint: 3
+File Reviewed: Physics.cs
+Author of File Reviewed: Alek
+
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Long Method
+  -Dead Code
+  -Inconsistent names
+Comments:
+  Overall the code is well named and decently readable,
+  Would be good to have comments explaining what some of the params in the methods
+  exactly control. 
+  
+Time Taken: 5m

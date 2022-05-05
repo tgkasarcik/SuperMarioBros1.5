@@ -1,0 +1,28 @@
+Author: Tommy Kasarcik
+Date: 4/8/2022
+Sprint: 4
+File Reviewed: Debris.cs
+Author of Reviewed File: Eric Chen
+Time: 9 Min
+Code Smells Focused on:
+  -Excessive use of literals
+  -Duplicated Code
+  -Comments
+  -Conditional Complexity
+  -Large class
+  -Inconsistent names
+  -Data Class
+  -Indecent Exposure
+  -Refused Bequest
+  -Long Method
+  
+  Comments:
+    Overall, the code in this class is of a very high quality.  There are no literals used throughout.  There is no duplicated code.  Some comments are 
+    present, but more would further increase the quality of this code.  There are only a handful of if statements present throughout this file, and, 
+    therefore, conditional complexity is not an issue.  This class does not appear to be any larger than it needs to be.  All variables are named consistently.
+    This is not a data class.  There is no indecent exposure.  There is no refused bequest.  There are no methods that are longer than they need to be.  Overall,
+    the code in this class is of a very high quality.  
+    
+  Suggestion:
+    One suggestion I have for this class is to consdider adding a Physics object to it.  I suggest this because physics apply to debris objects just like any
+    other objects.  This would probably make some of the calculations in this not be necessary.  

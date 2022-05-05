@@ -1,0 +1,11 @@
+Quality Code Review
+Date: 02/28/22
+Sprint: 3
+File Name: Shell
+File Author Name: Eric
+Time for Review: 9 min
+----- Comments As Follows -----
+- sprite.Texture.Bounds has too much coupling. We can solve by giving the sprite class a funtion for returning what info we need.
+- Some of the calls for new states are given hard values of booleans (ture/false). This can be solved by giving the statemachine a function for providing the required states for
+  a certain occasion.
+- The Update function is a little long, but this can be shortened by reducing the number of calls to be made for updating states. And this can be changed with the use of a statemachine.
