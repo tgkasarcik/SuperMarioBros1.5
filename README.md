@@ -1,5 +1,5 @@
 
-# 3902 Group Project
+# CSE 3902 Group Project
 
 IMPORTANT: Please install this font (https://www.urbanfonts.com/fonts/Emulogic.htm) in order to run the project solution.
 
