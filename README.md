@@ -1,23 +1,14 @@
 
-# The-BRAC-ETs
+# CSE 3902 Group Project
 
-Sprint 5 is now done, see "Sprint 5 Final" release for our source code or go to "Sprint5" branch.
-Even though the main folder is named Sprint2, it is in fact the full folder of the project that contains the Sprint 5 code.
-Our ZenHub page can be found at: https://app.zenhub.com/workspaces/3902-61f46253ce5d81001af0d3f4/board?repos=453223397
+IMPORTANT: Please install this font (https://www.urbanfonts.com/fonts/Emulogic.htm) in order to run the project solution.
 
-IMPORTANT: To have the Text properly displaying in the game and not crash, please follow this link (https://www.urbanfonts.com/fonts/Emulogic.htm), download the font file, open the file on your computer, and press install. Then the game should display the right text and not crash.
-
-Name of Project:
-- CSE 3902: Sprint 5 - Extending Your Game Framework
-
-Team Name:
+**Team Name:**
 The BRAC-ETs
 
-Description of Project:
-- This project presents a working, interactive, multi-level Mario game with custom additions. Custome features include bounce blocks, abaility to place blocks, custom levels and textures.
-- Upon completion of a level, the next level will automatically be loaded for the player.
+This project presents an interactive, multi-level game inspired by Super Mario Bros. with custom additions.
 
-Authors:
+**Authors:**
 - Alek Srode
 - Ruidong Zhang
 - Eric Chen
@@ -25,8 +16,17 @@ Authors:
 - Tommy Kasarcik
 - Catherine Quamme
 
-Commands:
-All commands are keyboard and mouse based, there are no game controller/gamepad controls.
+**Features:**
+- 4 original levels
+- Ability to interact with level by placing blocks
+- Bounce blocks
+- New textures
+
+**Screenshots**
+
+<img src="(https://user-images.githubusercontent.com/77713266/167062357-a9fba829-ae5f-4d9a-874a-fbba19112e01.png" alt="Level 1" title="Level 1">
+
+**Controlls:**
 
 Mario Movement:
 - 'D' to move Mario right.
@@ -55,7 +55,7 @@ Mario Movement:
 Reset and Quit Commands:
 - 'Q' to quit the game.
 
-Known Issues and/or Bugs:
+**Known Issues and/or Bugs:**
 - Mario has some times where he will be able to clip into a wall and jump up it almost like a ladder
 - Mario can fall into pits, once he falls far enough it will give you the GAME OVER screen. While falling, Mario can still move left and right. With this and the ability to place blocks, it is possible to save Mario from falling all the way down and dying.
 - When changing levels with the Star power before it has ended, the new area loaded will play its music and override the Star Power music, then Mario's star power will cause the song played for the level to start over from the beginning after officially ending.
