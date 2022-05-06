@@ -24,7 +24,21 @@ This project presents an interactive, multi-level game inspired by Super Mario B
 
 **Screenshots**
 
-<img src="(https://user-images.githubusercontent.com/77713266/167062357-a9fba829-ae5f-4d9a-874a-fbba19112e01.png" alt="Level 1" title="Level 1">
+Level 1: Tropical
+
+<img src="https://user-images.githubusercontent.com/77713266/167062357-a9fba829-ae5f-4d9a-874a-fbba19112e01.png" alt="Level 1" title="Level 1">
+
+Level 2: Fire
+
+<img src="https://user-images.githubusercontent.com/77713266/167062362-174ee11f-8ab3-4517-9867-a546c5fcbb7c.png" alt="Level 2" title="Level 2">
+
+Level 3: Ice
+
+<img src="https://user-images.githubusercontent.com/77713266/167062364-9b37d38e-8f13-45e7-8eef-59d98c7d9428.png" alt="Level 3" title="Level 3">
+
+Level 4: Ohio State v. Michigan
+
+<img src="https://user-images.githubusercontent.com/77713266/167062367-48ff86cf-0610-4e2f-a57e-2516cc338512.png" alt="Level 4" title="Level 4">
 
 **Controlls:**
 
