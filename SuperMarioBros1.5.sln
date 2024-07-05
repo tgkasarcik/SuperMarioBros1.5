@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3902-Project", "3902-Project\3902-Project.csproj", "{EB0C19AE-D0B7-4394-A9B1-9445CBCE8E9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperMarioBros1.5", "SuperMarioBros1.5\SuperMarioBros1.5.csproj", "{EB0C19AE-D0B7-4394-A9B1-9445CBCE8E9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
