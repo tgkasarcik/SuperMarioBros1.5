@@ -16,9 +16,7 @@ This project presents an interactive, multi-level game inspired by Super Mario B
 - In normal mario, Small Mario is unable to break brick blocks. But due to our use of placing blocks as a feature, it was decided that Small Mario would have the ability to break blocks in order to be able to place them and not get soft locked.
 
 ## Playing the Game
-There are two currently-supported ways to play the game.  The easiest (and recommended) way is to download the appropriate executable from the [Releases](https://github.com/tgkasarcik/FinalBounty-Public/releases) section of this repo.  
-
-IMPORTANT: Please install this font (https://www.urbanfonts.com/fonts/Emulogic.htm) in order to run the project solution.
+In order to play the game, navigate to the [Releases](https://github.com/tgkasarcik/FinalBounty-Public/releases) section of this repo and download the most recent release.
 
 ## Screenshots
 
