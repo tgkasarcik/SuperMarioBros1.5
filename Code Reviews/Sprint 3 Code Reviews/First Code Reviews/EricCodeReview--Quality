@@ -1,9 +1,0 @@
-Readability Code Review
-Date: 02/28/22
-Sprint: 3
-File Name: CollisionDetector
-File Author Name: Catherine Quamme
-Time for Review: 12 min
-
-1. Maybe it should have a string for detecting non collision for CollisionSide() or CheckForCollision() method, because if there is no block under mario and enemy, they will fall.
-2. I am not sure do we need to call handle method in CheckForCollision() method? Or we should do that in the update method()in different object class.
