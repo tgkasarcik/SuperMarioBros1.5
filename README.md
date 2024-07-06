@@ -61,6 +61,7 @@ In order to play the game, navigate to the [Releases](https://github.com/tgkasar
 - **3** - Give Mario the Star Powerup
 - **Left Mouse** - Return to previous level
 - **Right Mouse** - Skip to next level
+- **F3** - Toggle debug information
 
 ## Known Issues and Bugs
 - Mario can occasionally clip through and climb over walls
@@ -68,3 +69,4 @@ In order to play the game, navigate to the [Releases](https://github.com/tgkasar
 - No main menu screen currently exists
 - Fire flowers move and they should not
 - There is no working lives system. Once a player dies, they must either restart or quit the game
+- Debug controls are available all the time, but should only be available when F3 debug screen is open
