@@ -1,19 +1,20 @@
 
 # *Super Mario Bros.* 1.5
 
-This project was created throughout the Spring 2022 semester in completion of CSE 3902 - Project: Interactive Systems by a team of 6 software developers.
+*Super Mario Bros.* 1.5 is a re-creation and extension of the popular game *Super Mario Bros.* released by Nintendo in 1985.  This project was created throughout the Spring 2022 semester by a team of 6 Computer Science students from The Ohio State University in completion of course requirements.
 
-This project presents an interactive, multi-level game inspired by Super Mario Bros. with custom additions.
+## Copyright Note
+*Super Mario Bros.* is a trademark of Nintendo Co., Ltd.  No copyright infringement is intended.  This project was created as an academic exercise in video game creation in completion of required coursework from The Ohio State University.  
 
+## Original Features
+### 4 Unique Envrionments
+In *Super Mario Bros.* 1.5, Mario takes on 4 new worlds, ranging from a tropical paradise to a frigid tundra and finally culminating in the epic Ohio State v. Michigan showdown!
 
-## Features
-- 4 original levels
-- Ability to interact with level by placing blocks
-- Bounce blocks
-- New textures
+### Interactive Levels
+Mario can now interact with each level in a new way by placing bricks!  Mario begins each level with a set amount of bricks.  Each time he breaks a brick, it is added to his inventory to be used later.  Mario can place bricks anywhere throughout each level, unlocking new exploration potential and gameplay strategies.
 
-- Mario can fall into pits, once he falls far enough it will give you the GAME OVER screen. While falling, Mario can still move left and right. With this and the ability to place blocks, it is possible to save Mario from falling all the way down and dying.
-- In normal mario, Small Mario is unable to break brick blocks. But due to our use of placing blocks as a feature, it was decided that Small Mario would have the ability to break blocks in order to be able to place them and not get soft locked.
+### Bounce Blocks
+Mario can now soar through the sky on each level with the help of the new Bounce Block!  Inspired by Slime Blocks from *Minecraft*, Mario can use Bounce Blocks like a trampoline to jump to new heights never before possible.
 
 ## Playing the Game
 In order to play the game, navigate to the [Releases](https://github.com/tgkasarcik/FinalBounty-Public/releases) section of this repo and download the most recent release.
@@ -65,5 +66,5 @@ In order to play the game, navigate to the [Releases](https://github.com/tgkasar
 - Mario can occasionally clip through and climb over walls
 - Music starts incorrectly when changing levels with Star Powerup enabled
 - No main menu screen currently exists
-- Fireflowers move and they should not
+- Fire flowers move and they should not
 - There is no working lives system. Once a player dies, they must either restart or quit the game
