@@ -70,3 +70,5 @@ In order to play the game, navigate to the [Releases](https://github.com/tgkasar
 - Fire flowers move and they should not
 - There is no working lives system. Once a player dies, they must either restart or quit the game
 - Debug controls are available all the time, but should only be available when F3 debug screen is open
+- Window is fixed size.  Resizing the window and changing to fullscreen mode are not currently supported
+- Default MonoGame logo is used throughout instead of a custom logo
