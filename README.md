@@ -17,7 +17,7 @@ Mario can now interact with each level in a new way by placing bricks!  Mario be
 Mario can now soar through the sky on each level with the help of the new Bounce Block!  Inspired by Slime Blocks from *Minecraft*, Mario can use Bounce Blocks like a trampoline to jump to new heights never before possible.
 
 ## Playing the Game
-In order to play the game, navigate to the [Releases](https://github.com/tgkasarcik/FinalBounty-Public/releases) section of this repo and download the most recent release.
+In order to play the game, navigate to the [Releases](https://github.com/tgkasarcik/SuperMarioBros1.5/releases) section of this repo and download the most recent release.
 
 ## Screenshots
 
